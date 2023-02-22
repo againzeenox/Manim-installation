@@ -42,3 +42,7 @@
 ## Go to https://www.python.org/downloads/ and download Python version `3.10` or lower(All dependencies ane not compatible with higher versions)
 ## Download by choosing `Download Windows installer (64-bit)`
 ## While installing Python, make sure to check the `Add Python (version) to PATH` at the installation dialog box.
+
+
+To be continued...
+
